@@ -29,6 +29,11 @@ section {
    justify-content: center;
 }
 
+footer > section.badges {
+   margin: 0 4px;
+   vertical-align: middle;
+}
+
 aside {
    border: 1px solid #ccffcc;
    border-radius: 5px;
